@@ -1,7 +1,7 @@
 package design_pattern.creational.factory;
 
 import design_pattern.creational.factory.ShapeFactory;
-
+//Demo is the user
 public class Demo {
 
     public static void main(String[] args) {
@@ -20,10 +20,10 @@ public class Demo {
         shape2.draw();
 
         //get an object of Square and call its draw method.
-        Shape shape3 = shapeFactory.getShape("SQUARE");
-
-        //call draw method of square
-        shape3.draw();
+//        Shape shape3 = shapeFactory.getShape("SQUARE");
+//
+//        //call draw method of square
+//        shape3.draw();
     }
 
 

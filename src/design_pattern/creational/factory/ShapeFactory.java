@@ -1,5 +1,8 @@
 package design_pattern.creational.factory;
 
+import design_pattern.creational.factory.concrete.Circle;
+import design_pattern.creational.factory.concrete.Rectangle;
+
 public class ShapeFactory {
 
     ///create a method that create the instance of all the classes
