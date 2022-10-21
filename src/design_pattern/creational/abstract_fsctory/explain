@@ -1,0 +1,14 @@
+Abstract Factory Pattern says that just define an interface or abstract class for
+creating families of related (or dependent) objects but without specifying their
+concrete sub-classes.(That means Abstract Factory lets a class returns a factory of classes 1.e. create a class that return factory class)
+
+Advantage of Abstract Factory Pattern
+Abstract Factory Pattern isolates the client code from concrete (implementation) classes.
+It eases the exchanging of object families.
+It promotes consistency among objects
+
+Implementation
+1. create interface or class
+2. create a class that extends or implement parent class
+3. Create an abstract class (i.e AbstractFactory) to get the factories
+4. Create the factory classes that inherit AbstractFactory class to generate the object of concrete class based on given information.

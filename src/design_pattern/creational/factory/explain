@@ -1,0 +1,18 @@
+A Factory Pattern or Factory Method Pattern says that just define an interface or
+abstract class for creating an object (child class) but let the subclasses decide which class to instantiate.
+In other words, subclasses are responsible to create the instance of the class.
+The Factory Method Pattern is also known as Virtual Constructor
+It is a pattern that prevent the instantiation of concrete class
+
+Advantage of Factory Design Pattern
+Factory Method Pattern allows the sub-classes to choose the type of objects to create(Extends).
+It promotes the loose-coupling by eliminating the need to bind application-specific classes into the code
+Abstract class is a class that we cannot instantiate
+
+Implementaton
+1 crate parent class
+2. create child classes
+3  subclasses(child) extend super class(parent)
+4 create a factory class (Name it anyhow but it good to say ParentClassFactory). this class will contains
+the concrete instances of all the children classes
+5 To use any of the child class, create the instance of the factory that contains them and supply it name (not it instance)
