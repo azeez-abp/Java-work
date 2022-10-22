@@ -1,0 +1,14 @@
+Builder Pattern says that "construct a complex object from simple objects using step-by-step approach"` `
+
+It is mostly used when object can't be created b in single step like in the de-serialization of a complex object.
+
+key =>Build one object from many other objects
+
+A builder class will class the remaing class and return the object class as result
+compulter bulder take (motherboarde object, monitor object case object) to return computer object
+
+implementation
+
+all classes that will combime to form one object ====>bulder class
+
+basically is composition
