@@ -1,0 +1,23 @@
+These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient
+Compostion and relation
+
+Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate
+hierarchies—abstraction and implementation—which can be developed independently of each other.
+
+We need two object to be linked
+
+create Abstract or interfaces class of one;
+
+create Interface or interface of the other;
+
+Defination
+Bridge pattern decouple an abstraction from its implementation so that the two can vary independently.(Abstraction and implementation vary)
+
+one abstract class compose another abstract class
+
+The Bridge builds up concrete classes in pieces.
+You slowly add layers of methods that must be defined to fulfill the contract
+after you extend the abstract class
+
+tight couple the same thing perform the same function in different object
+loose couple

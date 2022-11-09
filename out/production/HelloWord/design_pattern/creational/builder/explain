@@ -5,7 +5,7 @@ It is mostly used when object can't be created b in single step like in the de-s
 key =>Build one object from many other objects
 
 A builder class will class the remaing class and return the object class as result
-compulter bulder take (motherboarde object, monitor object case object) to return computer object
+compulter builder take (motherboarde object, monitor object case object) to return computer object
 
 implementation
 

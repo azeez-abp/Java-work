@@ -1,0 +1,12 @@
+
+F
+java:S1172	"1Remove this unused method parameter "seatPerRow".(‚¼×c
+H
+java:S1481"-Remove this unused "lastSeat" local variable.(Žöþüÿÿÿÿÿ
+A
+java:S1481"&Remove this unused "a" local variable.(ÑäûÒþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ðß§Ò
+E
+java:S1068"/Remove this unused "theatreName" private field.(°Þ¬§
+A
+java:S1068"+Remove this unused "hasSeat" private field.(ùØÇá

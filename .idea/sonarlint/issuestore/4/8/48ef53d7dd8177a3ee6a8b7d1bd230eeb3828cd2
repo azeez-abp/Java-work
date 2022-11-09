@@ -1,0 +1,7 @@
+
+g
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ùÀ²¼øÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÀ²¼øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´Ù÷àúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚äÊöüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ãÜÖ‹ûÿÿÿÿ

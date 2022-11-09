@@ -1,0 +1,7 @@
+Pattern that explain various ways we can create many object; i.e
+These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+prototype method create object by copy
+singleton create object by allowing only one instance
+factory and abstract_factory create object from factory and abstract factory class (factory is a class that contain the
+concrete instance of the many classes)
+builder method return one object by combining many object to form that single one (Composition)

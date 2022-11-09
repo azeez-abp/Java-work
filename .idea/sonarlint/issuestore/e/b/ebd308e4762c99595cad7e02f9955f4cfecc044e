@@ -1,0 +1,25 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿÓ÷ƒüÿÿÿÿ
+
+java:S1319"fThe type of "items" should be an interface such as "List" rather than the implementation "LinkedList".(±ëğúÿÿÿÿ
+
+java:S1319&"fThe type of "items" should be an interface such as "List" rather than the implementation "LinkedList".(£ºŠĞÿÿÿÿÿ
+R
+java:S4973F"<Strings and Boxed types should be compared using "equals()".(¾ì«š
+V	java:S125"<This block of commented-out lines of code should be removed.(÷Ùûıûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(£Ç´úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‘õ¼©ùÿÿÿÿ
+m
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ò¨šÿøÿÿÿÿ
+>	java:S108F")Either remove or fill this block of code.(¾ì«š
+f	java:S128N"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+<	java:S131M""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ÆÒ±¨ÿÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(œ³Èıÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ä—è”ıÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(Ïı”Ô
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ä—è”ıÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ü”¡ÿÿÿÿÿ
+M
+java:S6126{"2Replace this String concatenation with Text block.(ü”¡ÿÿÿÿÿ
